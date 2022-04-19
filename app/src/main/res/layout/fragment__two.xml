@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment_Two">
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:orientation="vertical"
+      android:layout_height="wrap_content">
+
+
+
+          <TextView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:id="@+id/category_text_1"
+              android:text="This is 1"
+              android:layout_margin="5dp"
+              android:textStyle="bold"
+              android:textColor="@color/black"/>
+
+          <TextView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:id="@+id/category_text_2"
+              android:text="This is 2"
+              android:layout_margin="5dp"
+              android:textStyle="bold"
+              android:textColor="@color/black"/>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:id="@+id/category_text_3"
+          android:text="This is 3"
+          android:layout_margin="5dp"
+          android:textStyle="bold"
+          android:textColor="@color/black"/>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="This is 4"
+          android:id="@+id/category_text_4"
+          android:layout_margin="5dp"
+          android:textStyle="bold"
+          android:textColor="@color/black"/>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="This is 5"
+          android:id="@+id/category_text_5"
+          android:layout_margin="5dp"
+          android:textStyle="bold"
+          android:textColor="@color/black"/>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="This is 6"
+          android:id="@+id/category_text_6"
+          android:layout_margin="5dp"
+          android:textStyle="bold"
+          android:textColor="@color/black"/>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="This is 7"
+          android:id="@+id/category_text_7"
+          android:layout_margin="5dp"
+          android:textStyle="bold"
+          android:textColor="@color/black"/>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_margin="5dp"
+          android:text="This is 8"
+          android:id="@+id/category_text_8"
+          android:textStyle="bold"
+          android:textColor="@color/black"/>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="This is 9"
+          android:layout_margin="5dp"
+          android:id="@+id/category_text_9"
+          android:textStyle="bold"
+          android:textColor="@color/black"/>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="This is 10"
+          android:layout_margin="5dp"
+          android:id="@+id/category_text_10"
+          android:textStyle="bold"
+          android:textColor="@color/black"/>
+
+  </LinearLayout>
+
+</FrameLayout>
